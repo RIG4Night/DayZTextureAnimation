@@ -1,1 +1,8 @@
-{"success":false,"license":"invalid","item_id":1882,"item_name":"DayZ Texture Animator","error":"missing","checksum":"12daedfd967a1f77410c0d1c8c208af5"}
+{
+	"success":true,
+	"license":"invalid",
+	"item_id":1882,
+	"item_name":"DayZ Texture Animator",
+	"error":"missing",
+	"checksum":"12daedfd967a1f77410c0d1c8c208af5"
+}
